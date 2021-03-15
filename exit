@@ -1,0 +1,85 @@
+[33mcommit 319a8f162d87f9149aa48a89cb5833f29398c197[m
+Author: Caio Marques <cmls@INTERNO.MATERA.COM>
+Date:   Mon Mar 15 11:52:46 2021 -0300
+
+    renomeando curso de integração continua
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 23bfcf7..7389370 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -9,7 +9,7 @@[m
+ 		<li>Vagrant</li>[m
+ 		<li>Docker</li>[m
+ 		<li>Ansible</li>[m
+[31m-		<li>Integração Contínua</li>[m
+[32m+[m		[32m<li>Integração Contíiiinua</li>[m
+ 	</ul>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
+
+[33mcommit 9400eb94a1bd9884a13f00f0704ccc15e3596b18[m
+Author: Caio Marques <caio.marques@matera.com>
+Date:   Mon Mar 15 11:24:56 2021 -0300
+
+    adicionando git ignore
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7598925[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mide-config.txt[m
+\ No newline at end of file[m
+
+[33mcommit 5cc6c6f03654a8dd6da023cf3342dea215b5cc83[m
+Author: Caio Marques <cmls@INTERNO.MATERA.COM>
+Date:   Mon Mar 15 11:01:24 2021 -0300
+
+    acento adicionado no curso de integração contínua
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e9ea06e..23bfcf7 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -9,7 +9,7 @@[m
+ 		<li>Vagrant</li>[m
+ 		<li>Docker</li>[m
+ 		<li>Ansible</li>[m
+[31m-		<li>Integração Continua</li>[m
+[32m+[m		[32m<li>Integração Contínua</li>[m
+ 	</ul>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
+
+[33mcommit f73c91d7444e41fd83266b0b2ee7f4fd1a05ca4a[m
+Author: Caio Marques <caio.marques@matera.com>
+Date:   Mon Mar 15 10:59:29 2021 -0300
+
+    Criando arquivo index.html com lista de cursos
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e9ea06e[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,15 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m	[32m<meta charset="UTF-8">[m
+[32m+[m	[32m<title>Cursos da Alura</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m	[32m<ul>[m
+[32m+[m		[32m<li>Vagrant</li>[m
+[32m+[m		[32m<li>Docker</li>[m
+[32m+[m		[32m<li>Ansible</li>[m
+[32m+[m		[32m<li>Integração Continua</li>[m
+[32m+[m	[32m</ul>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
