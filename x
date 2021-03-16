@@ -1,0 +1,73 @@
+[33mcommit 6ddd7ea56f908ca8691b70f49a6077e5745e0a8e[m
+Author: Caio Marques <caio.marques@matera.com>
+Date:   Mon Mar 15 16:16:58 2021 -0300
+
+    mudando nome do curso de ansible
+
+[33mcommit 4a9f41798c8e029a5b73e9f77506d3bf5656286a[m
+Merge: 4ca6407 86f03a1
+Author: Caio Marques <caio.marques@matera.com>
+Date:   Mon Mar 15 16:05:22 2021 -0300
+
+    Merge branch 'master' of C:/Users/user/Documents/git-e-github/servidor
+
+[33mcommit 4ca640739bf1901c6e04b0481f6976f71cef839f[m
+Author: Caio Marques <caio.marques@matera.com>
+Date:   Mon Mar 15 16:04:43 2021 -0300
+
+    Corrigindo curso de vagrant
+
+[33mcommit 86f03a1fb41c45853ae4ecec8c3313671f7acab6[m
+Merge: b595ef2 c0cf3c4
+Author: Caio Marques <cmls@INTERNO.MATERA.COM>
+Date:   Mon Mar 15 16:00:48 2021 -0300
+
+    Merge branch 'lista'
+
+[33mcommit c0cf3c4cda294ab4577f9cc61f3f14230b432eee[m
+Author: Caio Marques <cmls@INTERNO.MATERA.COM>
+Date:   Mon Mar 15 15:56:59 2021 -0300
+
+    atualização de titulo
+
+[33mcommit b595ef20b2ac5b1e5392ca4a57edfe2de13f61dc[m
+Author: Caio Marques <caio.marques@matera.com>
+Date:   Mon Mar 15 15:54:30 2021 -0300
+
+    atualização de titulo
+
+[33mcommit ae6318704847552ab2870fababb6b811d188a264[m
+Author: Caio Marques <cmls@INTERNO.MATERA.COM>
+Date:   Mon Mar 15 15:42:40 2021 -0300
+
+    adicionando curso kubernetes
+
+[33mcommit 7b4dbf2cb09f85aef211dd203e620d17a9380099[m
+Author: Caio Marques <caio.marques@matera.com>
+Date:   Mon Mar 15 15:40:10 2021 -0300
+
+    alterando titulo da pagian
+
+[33mcommit 319a8f162d87f9149aa48a89cb5833f29398c197[m
+Author: Caio Marques <cmls@INTERNO.MATERA.COM>
+Date:   Mon Mar 15 11:52:46 2021 -0300
+
+    renomeando curso de integração continua
+
+[33mcommit 9400eb94a1bd9884a13f00f0704ccc15e3596b18[m
+Author: Caio Marques <caio.marques@matera.com>
+Date:   Mon Mar 15 11:24:56 2021 -0300
+
+    adicionando git ignore
+
+[33mcommit 5cc6c6f03654a8dd6da023cf3342dea215b5cc83[m
+Author: Caio Marques <cmls@INTERNO.MATERA.COM>
+Date:   Mon Mar 15 11:01:24 2021 -0300
+
+    acento adicionado no curso de integração contínua
+
+[33mcommit f73c91d7444e41fd83266b0b2ee7f4fd1a05ca4a[m
+Author: Caio Marques <caio.marques@matera.com>
+Date:   Mon Mar 15 10:59:29 2021 -0300
+
+    Criando arquivo index.html com lista de cursos
